@@ -1,2 +1,2 @@
-# comparisons-between-AGI-ASI-AI-and-Python-C-languages
+# Essential Programming Foundations for Artificial Intelligence: Data Representation, Constants, and Computational Precision
 conclusion and introduction for learning AI with Python
